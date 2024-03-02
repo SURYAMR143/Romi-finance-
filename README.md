@@ -1,2 +1,3 @@
 # Romi-finance-
-First work as intern of front end developet
+First work as intern of front end developer
+🧑🏻‍💻
